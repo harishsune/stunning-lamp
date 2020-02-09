@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "068c7ab95026a2a626670bde433d88a1",
+    "revision": "88d8848cff28249bb8932ad63349ef2b",
     "url": "/stunning-lamp/index.html"
   },
   {
-    "revision": "05bcb61db0e03a6e7802",
+    "revision": "e39560ef9769511ebc2d",
     "url": "/stunning-lamp/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stunning-lamp/static/js/2.c1a74582.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05bcb61db0e03a6e7802",
-    "url": "/stunning-lamp/static/js/main.d6e5a225.chunk.js"
+    "revision": "e39560ef9769511ebc2d",
+    "url": "/stunning-lamp/static/js/main.bd0fc990.chunk.js"
   },
   {
     "revision": "898f65efb98cc513ae44",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stunning-lamp/precache-manifest.6943134abf289535e3a3a9c336189863.js"
+  "/stunning-lamp/precache-manifest.63e782e54eb662b3b7f24d2c1604b402.js"
 );
 
 self.addEventListener('message', (event) => {
