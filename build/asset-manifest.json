@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stunning-lamp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/stunning-lamp/static/js/main.bd0fc990.chunk.js",
+    "main.js.map": "/stunning-lamp/static/js/main.bd0fc990.chunk.js.map",
+    "runtime-main.js": "/stunning-lamp/static/js/runtime-main.9730d8ca.js",
+    "runtime-main.js.map": "/stunning-lamp/static/js/runtime-main.9730d8ca.js.map",
+    "static/js/2.c1a74582.chunk.js": "/stunning-lamp/static/js/2.c1a74582.chunk.js",
+    "static/js/2.c1a74582.chunk.js.map": "/stunning-lamp/static/js/2.c1a74582.chunk.js.map",
+    "index.html": "/stunning-lamp/index.html",
+    "precache-manifest.63e782e54eb662b3b7f24d2c1604b402.js": "/stunning-lamp/precache-manifest.63e782e54eb662b3b7f24d2c1604b402.js",
+    "service-worker.js": "/stunning-lamp/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/stunning-lamp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c1a74582.chunk.js.LICENSE.txt": "/stunning-lamp/static/js/2.c1a74582.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/stunning-lamp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9730d8ca.js",
+    "static/js/2.c1a74582.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bd0fc990.chunk.js"
+  ]
+}
