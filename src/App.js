@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Route, Link, NavLink, Switch } from 'react-router-dom'  
 
 class App extends React.Component {
   render() {
@@ -40,7 +41,7 @@ class App extends React.Component {
                   <nav class="site-navigation position-relative text-right" role="navigation">
                     <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block ml-0 pl-0">
                       <li><a href="#home-section" class="nav-link">Home</a></li>
-                      <li><a href="#features-section" class="nav-link">Research Report</a></li>
+                      <li><NavLink to="/Reports" class="nav-link">Research Report</NavLink></li>
                       <li class="has-children">
                         <a href="#about-section" class="nav-link">Categories</a>
                         <ul class="dropdown arrow-top">
@@ -371,6 +372,11 @@ class App extends React.Component {
       </div>
     );
   }
+
+
+  
 }
+
+
 
 export default App;
